@@ -1,0 +1,3 @@
+
+    {bold}{red}Error{reset}
+    {bold}"{command}" is not a brick command. See: 'brick help'{reset}

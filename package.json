@@ -1,0 +1,49 @@
+{
+  "name": "brick-node",
+  "version": "0.0.6",
+  "description": "Brick Node Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "prova test/*.js"
+  },
+  "keywords": [
+    "brick"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/brick-node.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "flatten-array": "0.0.4",
+    "filename-id": "0.0.0",
+    "format-text": "0.0.3",
+    "mime-of": "^0.1.0",
+    "pubsub": "^1.0.2",
+    "through": "^2.3.4",
+    "variable-name": "0.0.1",
+    "stream-format": "0.0.3",
+    "local-debug": "0.0.0",
+    "concat-stream": "^1.4.6",
+    "hyperglue": "^1.3.1",
+    "slug-to-title": "0.0.1",
+    "parallel-loop": "0.0.3",
+    "new-struct": "^0.1.1",
+    "lsr": "^1.0.0",
+    "ignore-doc": "0.0.x",
+    "flat-glob": "0.0.1",
+    "categorize-files": "0.0.1",
+    "utf8-length": "0.0.1",
+    "mkdirp": "^0.5.0",
+    "serially": "0.0.2",
+    "failing-line": "^0.1.0",
+    "browserify": "^5.9.1"
+  },
+  "devDependencies": {
+    "prova": "^1.12.1",
+    "request": "^2.36.0",
+    "glob": "^4.0.2",
+    "flickr-favorites": "0.0.3"
+  }
+}

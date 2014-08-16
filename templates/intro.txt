@@ -1,0 +1,10 @@
+
+  {bold}Brick:{reset} {name} {grey}{path}{reset}
+  {bold}Version:{reset} {version}
+
+  Available Commands:
+
+      {bold}build{reset}    Build the brick into given directory. e.g 'brick build dist'
+      {bold}serve{reset}    Start a web server to publish the brick. e.g 'brick serve -p 8000'
+
+      {bold}help{reset}     Show all commands and options.

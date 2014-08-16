@@ -1,0 +1,1 @@
+{name}().insert('body');

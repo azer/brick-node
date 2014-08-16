@@ -1,0 +1,8 @@
+/* Brick removes the window padding/margins and sets the width/height as 100% */
+
+html, body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
