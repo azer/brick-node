@@ -38,7 +38,11 @@
     "mkdirp": "^0.5.0",
     "serially": "0.0.2",
     "failing-line": "^0.1.0",
-    "browserify": "^5.9.1"
+    "browserify": "^5.9.1",
+    "new-command": "^1.0.2",
+    "default-debug": "0.0.0",
+    "read-json": "0.0.0",
+    "style-format": "0.0.0"
   },
   "devDependencies": {
     "prova": "^1.12.1",

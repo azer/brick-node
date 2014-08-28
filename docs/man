@@ -1,0 +1,22 @@
+    USAGE
+
+        brick [command] [options]
+
+    COMMANDS
+
+        serve    Serve the brick in specified port and host. (localhost:8010 by default)
+        build    Build the brick into given directory.
+
+    OPTIONS
+
+        -a    --assets      Set the root URL to look for assets.
+        -T    --no-tmpl     Don't embed HTML templates into the JavaScript bundle.
+
+        -p    --port        Change the default port that bricks serves on.
+        -h    --hostname    Change the default port that bricks serves on.
+
+        -e    --verbose     Be talkative.
+        -s    --silent      Mute.
+
+        -v    --version     Show version and exit.
+        -h    --help        Show help and exit.
