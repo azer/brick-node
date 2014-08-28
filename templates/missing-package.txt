@@ -1,0 +1,3 @@
+
+    {bold}{red}Error{reset}
+    {bold}Unable to find a valid NPM package in given/working directory.{reset}
