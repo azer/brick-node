@@ -1,6 +1,6 @@
 {
   "name": "brick-node",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Brick Node Library",
   "main": "index.js",
   "scripts": {
@@ -43,7 +43,7 @@
     "default-debug": "0.0.0",
     "read-json": "0.0.0",
     "style-format": "0.0.0",
-    "set-content-type": "0.0.0"
+    "set-content-type": "0.0.2"
   },
   "devDependencies": {
     "prova": "^1.12.1",
