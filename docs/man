@@ -9,14 +9,16 @@
 
     OPTIONS
 
-        -a    --assets      Set the root URL to look for assets.
-        -T    --no-tmpl     Don't embed HTML templates into the JavaScript bundle.
+        -T    --no-tmpl            Don't embed HTML templates into the JavaScript bundle.
 
-        -p    --port        Change the default port that bricks serves on.
-        -h    --hostname    Change the default port that bricks serves on.
+        -p    --port               Change the default port that bricks serves on.
+        -h    --hostname           Change the default port that bricks serves on.
 
-        -e    --verbose     Be talkative.
-        -s    --silent      Mute.
+        -a    --assets-dir         Custom path to assets. Default is relative (empty).
+        -C    --no-default-css     Do not add the default CSS setting width/height of body
 
-        -v    --version     Show version and exit.
-        -h    --help        Show help and exit.
+        -e    --verbose            Be talkative.
+        -s    --silent             Mute.
+
+        -v    --version            Show version and exit.
+        -h    --help               Show help and exit.
